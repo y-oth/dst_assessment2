@@ -10,7 +10,7 @@
 * Tomi F
 
 This project is equally split between the five project partners
----
+
 ## Readindg order and requiremenets
 
 All report content is in the directory:
