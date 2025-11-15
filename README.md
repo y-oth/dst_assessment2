@@ -1,7 +1,5 @@
-# dst_assessment2
-This project implements and compares a Diffusion Convolutional Recurrent Neural Network (DCRNN) and a 3D Convolutional Neural Network (3D-CNN) for the classification of MRI data. The primary goal is to determine which model architecture serves as a more effective classifier for this specific neuroimaging modality.
+# Data Science Toolbox Project 2
 
-# README.md
 
 ## Project Group
 
@@ -12,7 +10,7 @@ This project implements and compares a Diffusion Convolutional Recurrent Neural 
 * Tomi F
 
 This project is equally split between the five project partners
-
+---
 ## Readindg order and requiremenets
 
 All report content is in the directory:
@@ -35,3 +33,7 @@ Requirements for the Python code is given in `requirements.txt`; to install , in
 ```{sh}
 pip3 install -r requirements.txt
 ```
+---
+
+# Description
+This project implements and compares a Diffusion Convolutional Recurrent Neural Network (DCRNN) and a 3D Convolutional Neural Network (3D-CNN) for the classification of MRI data. The primary goal is to determine which model architecture serves as a more effective classifier for this specific neuroimaging modality.
