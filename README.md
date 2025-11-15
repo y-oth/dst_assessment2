@@ -11,7 +11,7 @@ This project implements and compares a Diffusion Convolutional Recurrent Neural 
 * Kyra LQ
 * Tomi F
 
-This project is equally split between the four project partners
+This project is equally split between the five project partners
 
 ## Readindg order and requiremenets
 
