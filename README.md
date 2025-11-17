@@ -11,7 +11,7 @@
 
 This project is equally split between the five project partners
 
-## Readindg order and requiremenets
+## Reading order and requirements
 
 All report content is in the directory:
 
@@ -34,6 +34,9 @@ Requirements for the Python code is given in `requirements.txt`; to install , in
 pip3 install -r requirements.txt
 ```
 ---
-
+## Links:
+* Github : https://github.com/YilanDong19/Machine-learning-with-ABIDE/tree/main
+* Paper :  http://dx.doi.org/10.1002/hbm.70190
+* Original Data Source: http://preprocessed-connectomes-project.org/abide/
 # Description
-This project implements and compares a Diffusion Convolutional Recurrent Neural Network (DCRNN) and a 3D Convolutional Neural Network (3D-CNN) for the classification of MRI data. The primary goal is to determine which model architecture serves as a more effective classifier for this specific neuroimaging modality.
+This project implements and compares a GCN and a 3D Convolutional Neural Network (3D-CNN) for the classification of MRI data. The primary goal is to determine which model architecture serves as a more effective classifier for this specific neuroimaging modality.
