@@ -7,7 +7,7 @@
    Train the model on original MRIs, edge-enhanced MRIs, and blurred MRIs to isolate what visual features matter most.
 
 3. **Is the model robust to noise?**  
-   Test robustness by adding Gaussian noise, rotations, and motion blur to assess generalization.
+   Test robustness by adding Gaussian noise, rotations, and motion blur to assess generalization..
 
 4. **Do small perturbations produce radically different saliency maps?**  
    Use SmoothGrad to measure gradient stability and sensitivity to minor input changes.
