@@ -1,0 +1,14 @@
+{
+    "n_layers": 4,
+    "n_filters_0": 256,
+    "n_filters_1": 80,
+    "n_filters_2": 48,
+    "n_filters_3": 240,
+    "kernel_size_0": 3,
+    "kernel_size_1": 5,
+    "kernel_size_2": 3,
+    "kernel_size_3": 5,
+    "dropout": 0.1265531928742637,
+    "fc_size": 400,
+    "lr": 0.0008484833582874335
+}
