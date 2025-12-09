@@ -13,15 +13,40 @@ This project is equally split between the five project partners
 
 ## Reading order and requirements
 
-All report content is in the directory:
+All report content is stored in the directory
 
-* report/
+report/
 
-  The report takes the following structure:
-* 01 - IntroGrad_CAM.ipynb
-* 02 - yoursection.ipynb
-* 03 - again.ipynb
-* 04 - MethodComparison.ipynb
+* 01 Intro.ipynb  
+  introductory notebook explaining the dataset and motivation
+
+* 02 VanillaGradIntro.ipynb  
+  introduction to vanilla gradients as a saliency method
+
+* 03 SmoothGradIntro.ipynb  
+  explanation of the SmoothGrad method
+
+* 03a SmoothGRADImplementation.ipynb  
+  practical implementation and testing of SmoothGrad
+
+* 04 IntroGrad_CAM.ipynb  
+  explanation and demonstration of Grad CAM
+
+* 05 IntroLRP.ipynb  
+  introduction to the layerwise relevance propagation method
+
+* 06 IntroIntegratedGradients.ipynb  
+  introduction to integrated gradients
+
+* 07 Comparison_and_Conclusion.ipynb  
+  first comparison and early conclusion draft
+
+* 07 Scaling.ipynb  
+  experiments involving scaling and perturbation for AOPC metrics
+
+* 08 Comparison and Conclusion.ipynb  
+  final comparison across all methods and the final project conclusion
+
 
 ---
 ## Links:
