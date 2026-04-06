@@ -1,4 +1,5 @@
-# Data Science Toolbox Project 2
+# Description
+This project implements a Convolutional Neural Network (CNN) for the classification of MRI data and then implements various interpretation methods. The primary goal is to determine which interpretation method serves as a more effective method for this specific neuroimaging modality.
 
 
 ## Project Group
@@ -51,5 +52,3 @@ report/
 ---
 ## Links:
 * Kaggle : [https://github.com/YilanDong19/Machine-learning-with-ABIDE/tree/main](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
-# Description
-This project implements a Convolutional Neural Network (CNN) for the classification of MRI data and then implements various interpretation methods. The primary goal is to determine which interpretation method serves as a more effective method for this specific neuroimaging modality.
